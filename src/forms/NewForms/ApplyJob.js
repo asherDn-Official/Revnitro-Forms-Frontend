@@ -130,7 +130,7 @@ const ApplyJob = () => {
                   onChange={(e) =>
                     setFormDetails({
                       ...formDetails,
-                      cartype: e.target.value,
+                      jobTitle: e.target.value,
                     })
                   }
                 >
