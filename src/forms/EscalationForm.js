@@ -17,8 +17,7 @@ const Escalation = () => {
       <div className="contact-container">
         <h1>Contact Us</h1>
         <p className="paraisnong">
-          For any inquiries, please feel free to reach out to us using the links
-          below. We look forward to hearing from you!
+          For any inquiries, please feel free to contact us using the provided email, contact form, or visit us at our address. We look forward to hearing from you!
         </p>
         <div className="contact-details">
           <div className="column">
