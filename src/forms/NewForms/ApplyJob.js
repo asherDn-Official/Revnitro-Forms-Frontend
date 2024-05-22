@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet";
 
 const ApplyJob = () => {
   const [formDetails, setFormDetails] = useState({
-    jobTitle: "",
+    jobTitle: "SEO",
     personname: "",
     age: "",
     email: "",
