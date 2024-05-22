@@ -32,7 +32,7 @@ const Escalation = () => {
             <p>business@revnitro.com</p>
             <p>escalations@revnitro.com</p>
             <p>forum@revnitro.com</p>
-            <p>185/262, 2nd Floor, N.M Road, Avadi, <br>Chennai - 600054</p>
+            <p>185/262, 2nd Floor, N.M Road, Avadi, <br/>Chennai - 600054</p>
           </div>
         </div>
       </div>
