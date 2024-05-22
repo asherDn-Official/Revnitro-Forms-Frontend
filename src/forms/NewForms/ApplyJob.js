@@ -126,7 +126,7 @@ const ApplyJob = () => {
                   name="Applied for Job"
                   class="selecteres"
                   required
-                  value={formDetails.cartype}
+                  value={formDetails.jobTitle}
                   onChange={(e) =>
                     setFormDetails({
                       ...formDetails,
