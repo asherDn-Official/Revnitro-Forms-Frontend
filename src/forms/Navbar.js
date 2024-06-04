@@ -24,11 +24,14 @@ export const Navbar = () => {
         <li>
           <NavLink to="https://revnitro.com">Home</NavLink>
         </li>
-      <li>
-          <NavLink to="https://revnitro.com">Home</NavLink>
-        </li>
         <li>
           <NavLink to="https://blog.revnitro.com">Blog</NavLink>
+        </li>
+      <li>
+          <NavLink to="https://blog.revnitro.com">Classified</NavLink>
+        </li>
+    <li>
+          <NavLink to="https://blog.revnitro.com">Shop</NavLink>
         </li>
         <li>
           <NavLink target="_blank" to="https://forum.revnitro.com/">
