@@ -24,6 +24,9 @@ export const Navbar = () => {
         <li>
           <NavLink to="https://revnitro.com">Home</NavLink>
         </li>
+      <li>
+          <NavLink to="https://revnitro.com">Home</NavLink>
+        </li>
         <li>
           <NavLink to="https://blog.revnitro.com">Blog</NavLink>
         </li>
